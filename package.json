@@ -1,0 +1,12 @@
+{
+  "name": "playwright-cbv6-ui-testing",
+  "version": "1.0.0",
+  "description": "Playwright UI testing for CBv6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafail Ferre",
+  "license": "ISC"
+}
